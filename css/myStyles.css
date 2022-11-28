@@ -1,0 +1,57 @@
+
+
+.social a {
+    color: yellow;
+}
+
+#sec-2 {
+    background: 
+    linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),
+    url("../images/banner.jpg") no-repeat center center/cover;
+
+}
+#sec-3{
+    background: 
+    linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),
+    url("../images/bg4.jpg") no-repeat center center/cover;
+}
+.part3{
+    background-color: rgba(0, 0, 0, 0.443);
+}
+
+.man{
+ width: 50;
+ height: 50;
+}
+
+.bcolor{
+    background-color: rgba(0, 0, 0, 0.69);
+    width: 100%;
+    color: white;
+    margin-top: -55px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#sec-5{
+    /* background: url("../images/bg2.jpg") no-repeat center center/cover; */
+    background: 
+    linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),
+    url("../images/bg2.jpg") no-repeat center center/cover;
+}
+
+card-text img{
+    width: 30px;
+    height: 30px;
+}
+
+#sec-9{
+    background: 
+    linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),
+    url("../images/gallery1.jpg") no-repeat center center/cover; 
+}
+.boo{
+    width: 30px;
+    height: 30px;
+}
